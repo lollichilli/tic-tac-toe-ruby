@@ -1,2 +1,6 @@
-# tic-tac-toe-ruby
-A tic-tac-toe game created by using Ruby
+# Tic-tac-toe-ruby
+
+A TicTacToe game created by using Ruby.
+
+# Reference
+The Odin Project
